@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>4C81B4E1-79ED-4B76-A089-59F83F9EBD3C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4C81B4E1-79ED-4B76-A089-59F83F9EBD3C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>testUpload Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>679418258.99200904</real>
+			<key>timeStoppedRecording</key>
+			<real>679418259.08536601</real>
+			<key>title</key>
+			<string>testUpload Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4C81B4E1-79ED-4B76-A089-59F83F9EBD3C</string>
+		</dict>
+		<key>CB8B3002-61A8-49E8-AD31-9C2F3986BC4B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>CB8B3002-61A8-49E8-AD31-9C2F3986BC4B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>679418258.42650497</real>
+			<key>timeStoppedRecording</key>
+			<real>679418258.98161495</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>CB8B3002-61A8-49E8-AD31-9C2F3986BC4B</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
